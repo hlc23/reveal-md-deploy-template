@@ -5,6 +5,6 @@
         "build": "rm -rf ./docs/ && reveal-md slides/ --static docs"
     },
     "devDependencies": {
-        "reveal-md": "^4.1.0"
+        "reveal-md": "^4.3.0"
     }
 }
